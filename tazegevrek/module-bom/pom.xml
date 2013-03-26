@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.tazegevrek</groupId>
-		<artifactId>sibiren</artifactId>
+		<artifactId>tazegevrek</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>module-bom</artifactId>
