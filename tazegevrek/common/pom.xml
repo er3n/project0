@@ -11,6 +11,7 @@
 
 	<dependencies>
 		<dependency>
+		    
 			<groupId>com.tazegevrek</groupId>
 			<artifactId>module-bom</artifactId>
 			<version>${tazegevrek-version}</version>
